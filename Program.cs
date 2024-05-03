@@ -7,5 +7,3 @@ if(92>mg){Console.WriteLine("reavaliar entre 24 e 28 semanas "+
 if(mg >= 92 && mg <126){Console.WriteLine("Compatível com Diabetes "+
 "Gestacional");}
 if(126 <= mg){Console.WriteLine("Diabetes Mellitus na Gravidez");}
-
-
